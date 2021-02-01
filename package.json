@@ -1,0 +1,25 @@
+{
+  "name": "simple-sql",
+  "version": "1.0.0",
+  "description": "NPM Package for making sql connection easy",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikDevelopment/SimpleSQL.git"
+  },
+  "author": "Dominik Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominikDevelopment/SimpleSQL/issues"
+  },
+  "homepage": "https://github.com/DominikDevelopment/SimpleSQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
+}

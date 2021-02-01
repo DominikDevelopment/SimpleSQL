@@ -1,4 +1,6 @@
 {
-    "name": "test",
-    "con": "localhost"
+    "host": "localhost",
+    "user": "root",
+    "password": "YourPass",
+    "table": "dbname.tablename"
 }
